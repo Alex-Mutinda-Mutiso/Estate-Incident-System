@@ -1,0 +1,1 @@
+console.log("Estate Incident Reporting System loaded");
