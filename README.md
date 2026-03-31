@@ -3,6 +3,7 @@
 The Estate Incident System is a digital platform designed to bring order, accountability, and speed to incident reporting within residential estates and communities. Traditional reporting methods — word of mouth, manual logs, or scattered phone calls — often lead to delays, lost information, and lack of follow‑up. This system eliminates those gaps by providing a structured, transparent, and accessible way to capture and manage incidents.
 
 **🎯 The Problem**
+
 Residential estates face recurring challenges:
 - Delayed response: Incidents are often reported informally, causing slow reaction times.
 - Poor record‑keeping: Without a central system, reports get lost or forgotten.
@@ -11,6 +12,7 @@ Residential estates face recurring challenges:
 These issues compromise safety, trust, and operational efficiency.
 
 **💡 The Solution**
+
 The Estate Incident System solves these challenges by:
 - Centralizing reports: All incidents are logged in one unified dashboard.
 - Ensuring transparency: Residents can track the status of their reports.
@@ -19,6 +21,7 @@ The Estate Incident System solves these challenges by:
 - Enhancing trust: Residents see clear evidence that their concerns are taken seriously.
 
 **🚀 Impact**
+
 By digitizing incident reporting:
 - Response times are reduced.
 - Estate managers gain actionable insights from data trends.
